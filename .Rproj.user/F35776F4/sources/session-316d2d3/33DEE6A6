@@ -3,7 +3,7 @@
     "path": "C:/Users/Shank/Downloads/E-Portfolio/Projects.qmd",
     "project_path": null,
     "type": "quarto_markdown",
-    "hash": "2542872045",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1790814978933.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "1,0",
+        "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "31:0"
+        "rmdVisualModeLocation": "22:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790965029,
+    "lastKnownWriteTime": 1790966143,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790965029122,
+    "last_content_update": 1790966143796,
     "read_only": false,
     "read_only_alternatives": []
 }
