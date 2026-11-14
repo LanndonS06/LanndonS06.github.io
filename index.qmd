@@ -1,0 +1,16 @@
+---
+title: "Lanndon Stubblefield"
+image: IMG_3102(2) - Copy.jpg
+about:
+  template: jolla
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/LanndonS06
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/lanndon-stubblefield-2a2190440/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpGVRREnNTbGFBy2ZwO8BPA%3D%3D
+  - icon: inboxes
+    text: Contact
+    href: mailto:lanndons@uark.edu
+---
